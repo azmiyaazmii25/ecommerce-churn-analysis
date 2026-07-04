@@ -8,7 +8,6 @@ stakeholder-friendly summaries, and Tableau for an executive dashboard.
 
 ![Dashboard preview](tableau/dashboard_preview.png)
 
-*(Interactive Tableau Public version coming soon — workbook available at `tableau/churn_dashboard.twbx`)*
 
 ## The Business Question
 
