@@ -1,0 +1,18 @@
+# Data (raw is large & not redistributable; processed transaction-level file is large too)
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/transactions_clean.csv
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
