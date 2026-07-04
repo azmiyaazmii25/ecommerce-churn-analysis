@@ -53,6 +53,8 @@ a retention campaign should target first, since they haven't left yet.
 | **Git/GitHub** | Version-controlled, reproducible analysis pipeline |
 
 ## Project Structure
+
+```
 ecommerce-churn-analysis/
 ├── data/
 │   ├── raw/                    # place online_retail_II.xlsx here (not tracked in git)
@@ -70,6 +72,7 @@ ecommerce-churn-analysis/
 │   └── dashboard_preview.png   # dashboard screenshot
 ├── requirements.txt
 └── README.md
+```
 
 ## How to Reproduce
 
